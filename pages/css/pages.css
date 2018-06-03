@@ -49,7 +49,9 @@ h2{
 }
 
 .body{
-    background-color: lightgray; 
+    background-color: lightgray;
+    width: 500px; 
+    height: 1000px;
 }
 
 /* Open sans */
@@ -97,6 +99,49 @@ h2{
 }
 
 
+.btn {
+    border: 5px solid white;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+/* On mouse-over */
+.btn:hover {background: #eee;}
+
+.btn About us {color: white;
+}
+h3{
+    color:black; 
+}
+.button{
+    float:left;
+    background-color: orange;
+    height: 28px;
+}
+
+.btn {
+    border: 5px solid white;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+}
+.btn:hover {background: #eee;}
+
+.btn About us {color: white;
+}
+
+.button2{
+    float:left;
+    background-color: #4EDA55;
+    height: 28px;
+    margin:2px;
+    margin-top: 47px;
+}
 
 
 /* Voeg jouw css hieraan toe */
