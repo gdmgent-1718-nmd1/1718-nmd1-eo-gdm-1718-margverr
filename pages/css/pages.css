@@ -15,4 +15,88 @@ img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
 
+h1 {
+    color: #4EDA55
+}
+
+h2{
+    color: #F9B233
+}
+
+.minirock{
+    float: left; 
+}
+.rock{
+    float:left;
+}
+.pukkelpop{
+    float:left;
+}
+
+/*Strasua*/
+.header{
+    color:white; 
+ 
+    font-family: "strasua",sans-serif; 
+    font-size: 50px;
+ 
+}
+
+.font{
+    color: gray; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+
+.body{
+    background-color: lightgray; 
+}
+
+/* Open sans */
+.header3{
+    background-color: white;
+}
+
+.subheader{
+    color:white; 
+    font-family: "open sans",sans-serif; 
+    font-size: 30px;
+}
+
+.font{
+    color: gray; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+
+/*Avenir Next Condensed*/ 
+
+.text{
+    color:white; 
+    font-family: "avenir next condensed",sans-serif; 
+    font-size: 25px;
+}
+
+.font3{
+    color:gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+
+.groen{
+    float: left;
+}
+.oranje{
+    float: left; 
+}
+.donkergroen{
+    float:left; 
+}
+.donkeroranje{
+    float:left; 
+}
+
+
+
+
 /* Voeg jouw css hieraan toe */
